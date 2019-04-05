@@ -219,17 +219,10 @@ const genEmail = length =>
   });
 
 const domain = [
-  "payforclick.org",
-  "cloneviptmc1.club",
-  "emailtech.info",
-  "payforpost.info",
-  "alonzo1121.club",
-  "mimpaharpur.ga",
-  "coolmail.ooo",
-  "alliancewe.us",
-  "wpower.info",
-  "besttandberg.com",
-  "titaspaharpur5.ml"
+  "creo.iotu.nctu.me",
+"nasa.dmtc.edu.pl",
+"41054733.mail-temp.com",
+"derbydales.co.uk"
 ];
 (async () => {
   try {
